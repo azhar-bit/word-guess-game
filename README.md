@@ -20,17 +20,6 @@ Test your vocabulary skills — guess the hidden word before you run out of atte
 1. Run the game:
    ```bash
    python word_guess_game.py
-🧠 Example Gameplay
-Welcome to the Word Guess Game!
-
-_ _ _ _ _
-Guess a letter: a
-Good guess! a _ _ a _
-Guess a letter: e
-Sorry, 'e' is not in the word.
-Attempts left: 5
-...
-🎉 Congratulations! You guessed the word: APPLE
 
 
 🚀 Run Locally
